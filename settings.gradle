@@ -1,0 +1,2 @@
+rootProject.name='pianoDemo'
+include ':app', ':library'
